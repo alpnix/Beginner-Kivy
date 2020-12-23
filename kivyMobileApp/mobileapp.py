@@ -1,3 +1,4 @@
+# NOT COMPLETE 
 import random
 from helpers import list_helper,screen_helper
 from kivy.uix.screenmanager import Screen, ScreenManager
