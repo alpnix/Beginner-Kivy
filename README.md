@@ -1,2 +1,2 @@
 # pythonKivys
-In this repository I will keep my Python Kivy Projects.
+In this repository I will keep a couple of my beginner Python Kivy Projects.
